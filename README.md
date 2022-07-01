@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @trieulieuf9
-- 👀 I’m interested in Web application security, Programming
-- 🌱 I’m currently learning Web application security, bug bounty hunting
-- 📫 How to reach me: trieulieuf9+github@gmail.com
-- Donation: I did not do anything that deserve a donation, but you can still donate me at https://paypal.me/trieulieuf9
+![Hentai Kamen Fabulouss](https://raw.githubusercontent.com/trieulieuf9/trieulieuf9/main/my_proud_product.gif)
 
-<!---
-trieulieuf9/trieulieuf9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+He does the hunt, as a meditation
+Those targets, seems so hardened
+He doesn't hunt, for the bounty he wins
+He don't hunt for respect
+
+He does the hunt, for the feelings
+To satisfy, his curiosity and creativeness
+To play the game, of uncertainty
+Lets intuition do his job
+
+https://www.youtube.com/watch?v=T19NYAPNgdc
